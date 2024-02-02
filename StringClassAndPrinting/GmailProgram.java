@@ -1,7 +1,7 @@
 package StringClassAndPrinting;
 //Find if the email id is on gmail
 //Find username and domain name form email
-public class Gmail {
+public class GmailProgram {
     public static void main(String[] args) {
         String str ="programmer@gmail.com";
 
