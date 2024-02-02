@@ -1,11 +1,11 @@
 package StringClassAndPrinting;
 
 public class FormatSpecifier {
-    public static void main(String args[]){
+    public static void main(StringProgram args[]){
         int x=10;
         float y= 0.0012f;
         char z ='A';
-        String str = "Java Program";
+        StringProgram str = "Java Program";
         System.out.printf("%1$d %1$d %1$d\n",x);
         System.out.printf("%1$d %2$f %1$d\n",x,y);
 
