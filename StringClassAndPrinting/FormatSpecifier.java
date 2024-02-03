@@ -5,7 +5,7 @@ public class FormatSpecifier {
         int x=10;
         float y= 0.0012f;
         char z ='A';
-        StringProgram str = "Java Program";
+        String str = "Java Program";
         System.out.printf("%1$d %1$d %1$d\n",x);
         System.out.printf("%1$d %2$f %1$d\n",x,y);
 
