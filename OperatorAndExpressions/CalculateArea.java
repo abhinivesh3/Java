@@ -1,6 +1,6 @@
 package OperatorAndExpressions;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class CalculateArea {
     public static void main(String args[]){
