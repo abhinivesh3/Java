@@ -18,6 +18,6 @@ public class NestedInnerClass {
     public static void main(String[] args) {
         Outer o = new Outer();
         o.OuterDisplay();;
-        Outer.Inner i = new Outer().new Inner();
+        //Outer.Inner oi = new Outer().new Inner();
     }
 }

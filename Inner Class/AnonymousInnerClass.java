@@ -7,7 +7,7 @@ class Outer{
             public void display(){
                 System.out.println("Hello");
             }
-        }
+        };
         m.display();      
     }
 }

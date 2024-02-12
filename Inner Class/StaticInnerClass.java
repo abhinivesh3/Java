@@ -4,7 +4,7 @@ class Outer{
     static class Inner{
         void display(){
             System.out.println(x);
-            System.out.println(y);
+            //System.out.println(y);
         }
     }
 }
