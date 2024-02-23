@@ -5,7 +5,7 @@ class StackOverFlow extends Exception{
 }
 
 class StackUnderFlow extends Exception{
-    public String toString({
+    public String toString(){
         return "Stack is Empty";
     }
 }
